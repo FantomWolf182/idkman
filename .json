@@ -8,6 +8,13 @@
         }
     ],
 
+"spec": 2,
+    "semanticColors": {
+"BACKGROUND_FLOATING": [
+            "#29272E",
+            "#29272E"
+        ]
+    }
   
 "background": {
     "blur": 0.6,
