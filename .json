@@ -10,9 +10,61 @@
 
 "spec": 2,
     "semanticColors": {
-"BACKGROUND_FLOATING": [
-            "#000000",
-            "#000000"
+        "BACKGROUND_PRIMARY": [
+            "#121114",
+            "#161519"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#121114",
+            "#29272E"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#0E0D10",
+            "#0E0D10"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#121215",
+            "#121215"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#33574F",
+            "#504863"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#29272E",
+            "#29272E"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#161519",
+            "#222228"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#121114",
+            "#161519"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#121114",
+            "#121114"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#1F1F2B",
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1a1926",
+            "#1a1926"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1F1F2B",
+            "#1F1F2B"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#3A1211",
+            "#373147"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#29272E",
+            "#29272E"
         ]
     }
   
